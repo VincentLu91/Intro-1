@@ -9,4 +9,5 @@ def gdratio(n):
 		gdsum = 1 + 1/gdsum
 	return gdsum
 
+
 print gdratio(200)
