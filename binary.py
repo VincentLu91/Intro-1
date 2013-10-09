@@ -6,6 +6,7 @@ array or -1 to indicate the target number is not found int he array.
 Also, write a suitable test program that shows the accuracy of your binary
 search function"""
 
+
 def binary(target, arr):
 	low = 0
 	high = len(arr)
